@@ -21,7 +21,7 @@ A Windows desktop tool that converts Markdown (`.md`) files to Word (`.docx`) do
 
 #### Option 1: Run the EXE (recommended for end users)
 
-Download `MD2Word.exe` from the [Releases](https://github.com/DuckLing-IO/md2word/releases) page, double-click to run.
+Download `MD2Word.exe` from the [Releases](https://github.com/your-org/md2word/releases) page, double-click to run.
 
 #### Option 2: Run from source
 
@@ -107,7 +107,7 @@ Startup
 
 #### 方式一: 直接运行 EXE (推荐)
 
-从 [Releases](https://github.com/DuckLing-IO/md2word/releases) 页面下载 `MD2Word.exe`，双击运行。
+从 [Releases](https://github.com/your-org/md2word/releases) 页面下载 `MD2Word.exe`，双击运行。
 
 #### 方式二: 从源码运行
 
